@@ -28,4 +28,4 @@
 2. [Eclipse Papyrus](https://www.eclipse.org/papyrus/)
 3. [UML plugins for IntelliJ Idea](https://plugins.jetbrains.com/search?search=UML) - на жаль, тут все досить погано😒
 4. [StarUML](http://staruml.io/)
-5. [GenMyModel](http://www.genmymodel.com/) - онлайновий! 
+5. [GenMyModel](http://www.genmymodel.com/) - онлайновий сервіс, раджу познайомитись з ним ближче! 
